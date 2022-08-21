@@ -285,3 +285,27 @@ But knowing the stuff will help you become better! :muscle:*
 19.  Diagramo
 
 20.  GenMyModel
+
+
+#####
+10 TIPS FOR WRITING CLEAN CODE
+
+1. Use empty lines to create a readable code
+
+2. Use descriptive names
+
+3. Remember the functions or methods must do only one thing
+
+4. Functions or method must be brief and straightforward
+
+5. Reduce the number of characters in a line- Avoid reader pressing side navigation bar to check for code
+
+6. Create a descriptive message when you create a commit
+
+7. Good practice of formatting and concatenation
+
+8. Use Unit Test and practice Test Driven Development
+
+9. Learn Design Patterns
+
+10. Review Review and Review

@@ -244,3 +244,68 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [InterviewCake](https://www.interviewcake.com/)
 - :link: [At Coder](https://atcoder.jp/)
 - :link: [Codility](https://www.codility.com/)
+
+###20 LEADING DIAGRAMMING SOFTWARE DEVELOPERS SHOULD KNOW
+1.  Draw.io 
+
+2.  Adobe Spark 
+
+3.  Moqups
+
+4.  LucidChart
+
+5.  Creately
+
+6.   Visio
+
+7. ConceptDraw
+
+8.  Software Ideas Modeler
+
+9.  Systems Design Rhapsody
+
+10.  NClass
+
+11.  Open ModelSphere
+
+12.  Modelio
+
+13.  Edraw Max
+
+14.  StarUML
+
+15.  Dia
+
+16.  BOUML
+
+17.  Visual Modeling Software
+
+18.  Astah
+
+19.  Diagramo
+
+20.  GenMyModel
+
+
+#####
+10 TIPS FOR WRITING CLEAN CODE
+
+1. Use empty lines to create a readable code
+
+2. Use descriptive names
+
+3. Remember the functions or methods must do only one thing
+
+4. Functions or method must be brief and straightforward
+
+5. Reduce the number of characters in a line- Avoid reader pressing side navigation bar to check for code
+
+6. Create a descriptive message when you create a commit
+
+7. Good practice of formatting and concatenation
+
+8. Use Unit Test and practice Test Driven Development
+
+9. Learn Design Patterns
+
+10. Review Review and Review
